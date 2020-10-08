@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left:500px;
+}
+p{
+	color: violet;
+	margin-left: 100px;
+}
